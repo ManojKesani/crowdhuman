@@ -12,13 +12,16 @@ AP: 11.61% ("person")
 
 mAP: 17.79%
 
+<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/head%20.png" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/person%20.png" align="left" height="250" width="250" ></a>
+
+
 <a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/Result1.png" align="left" height="250" width="250" ></a>
 <a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/Result2.png" align="left" height="250" width="250" ></a>
 
 
 
-<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/head%20.png" align="left" height="250" width="250" ></a>
-<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/person%20.png" align="left" height="250" width="250" ></a>
+
 <a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png" align="left" height="250" width="250" ></a>
 <a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png" align="left" height="250" width="250" ></a>
 <a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png" align="left" height="250" width="250" ></a>
