@@ -15,8 +15,7 @@
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png)
-![](https://github.com/ManojKesani/crowdhuman/blob/master/images/Screenshot%20from%202020-09-30%2023-37-41.png)
-
+![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train4.png)
 
 
 ## Precision X Recall, Ground truths,Detections: 
