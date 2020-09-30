@@ -12,6 +12,7 @@
 
 
 ## Training with different Loss Curves: 
+### First image is the loss curve for the model in this repo,rest 3 are experiments with different curves 
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png)
