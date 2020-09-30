@@ -5,7 +5,7 @@
 
 [Trained_model_weights_Resnet_50](https://drive.google.com/file/d/1-WHSoeulyKQ_A2y06-wrE8D1Xlr7T8EE/view?usp=sharing)
 
-| AP : Head  | AP : Preson | mAP |
+| AP : Head  | AP : Precision | mAP |
 | ---------- | ------- |------ |
 | 23.98%  | 11.61%  | 17.79% |
 
@@ -15,10 +15,11 @@
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png)
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png)
+![](https://github.com/ManojKesani/crowdhuman/blob/master/images/Screenshot%20from%202020-09-30%2023-37-41.png)
 
 
 
-
+## Precision X Recall, Ground truths,Detections: 
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/Screenshot%20from%202020-09-30%2023-37-41.png)
 
 
