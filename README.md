@@ -9,19 +9,17 @@
 | ---------- | ------- |------ |
 | 23.98%  | 11.61%  | 17.79% |
 
+
+
+## Training with different Loss Curves: 
+![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png)
+![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png)
+![](https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png)
+
+
+
+
 ![](https://github.com/ManojKesani/crowdhuman/blob/master/images/Screenshot%20from%202020-09-30%2023-37-41.png)
-
-<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train1.png" align="left" height="250" width="250" ></a>
-
-
-<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train2.png" align="left" height="250" width="250" ></a>
-
-
-<a href="url"><img src="https://github.com/ManojKesani/crowdhuman/blob/master/images/train3.png" align="left" height="250" width="250" ></a>
-
-
-
-
 
 
 
