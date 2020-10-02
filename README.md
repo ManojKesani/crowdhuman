@@ -5,6 +5,9 @@
 
 [Trained_model_weights_Resnet_50](https://drive.google.com/file/d/1-WHSoeulyKQ_A2y06-wrE8D1Xlr7T8EE/view?usp=sharing)
 
+
+Evaluation using Pascalvoc 
+
 | AP : Head  | AP : Person | mAP |
 | ---------- | ------- |------ |
 | 23.98%  | 11.61%  | 17.79% |
