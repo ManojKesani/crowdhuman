@@ -3,17 +3,15 @@
 [Open_in_COLLAB](https://colab.research.google.com/drive/1qvQA-rxF0330xe3k3A7jvXDwItmZDj2O?usp=sharing)
 
 
-[Trained_model_weights_Resnet_50 1 Epoch](https://drive.google.com/file/d/1-WHSoeulyKQ_A2y06-wrE8D1Xlr7T8EE/view?usp=sharing)
 
-[Trained_model_weights_Resnet_50 8 Epoch](https://drive.google.com/file/d/1mZxNIj4UdpdGVY8NL5QxqSaYQfPnqv-R/view?usp=sharing)
 
 
 Evaluation using Pascalvoc 
 
 | Epoch no | AP : Head  | AP : Person | mAP |
 | ---------- | ------- |------ |------ |
-| 1  | 23.98%  | 11.61%  | 17.79% |
-| 8  | 28.04%  | 26.84%  | 27.44% |
+| 1  | 23.98%  | 11.61%  | 17.79% |[model](https://drive.google.com/file/d/1-WHSoeulyKQ_A2y06-wrE8D1Xlr7T8EE/view?usp=sharing)|
+| 8  | 28.04%  | 26.84%  | 27.44% |[model](https://drive.google.com/file/d/1mZxNIj4UdpdGVY8NL5QxqSaYQfPnqv-R/view?usp=sharing)|
 
 
 
