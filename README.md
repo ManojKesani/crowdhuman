@@ -8,9 +8,10 @@
 
 Evaluation using Pascalvoc 
 
-| AP : Head  | AP : Person | mAP |
+| Epoch no | AP : Head  | AP : Person | mAP |
 | ---------- | ------- |------ |
-| 23.98%  | 11.61%  | 17.79% |
+| 1  | 23.98%  | 11.61%  | 17.79% |
+| 8  | 28.04%  | 26.84%  | 27.44% |
 
 
 
